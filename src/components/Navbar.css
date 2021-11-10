@@ -1,0 +1,40 @@
+.navbar{
+    height: 3vw;
+    display: flex;
+    align-items: center;
+    background-color:darkblue;
+    position: sticky;
+}
+
+.searchbox{
+    display: flex;
+    flex: 1;
+    height: 1.5vw;
+    padding: 1vw;
+    max-width:fit-content;
+}
+.navlogo{
+    background-color: black;
+    width: 6vw;
+    object-fit: contain;
+    margin: 0 2vw;
+    margin-top: 1.3vw;
+}
+.input{
+    font-size: 0.8vw;
+}
+.linkstopages{
+    text-align: right;
+    margin-right: 2.5vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.link{
+    margin-left: 1vw;
+    margin-right: 1vw;
+    font-size: 1.2vw;
+}
