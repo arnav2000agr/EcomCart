@@ -6,7 +6,8 @@ const Home = ({image,name,price}) => {
             <p>{image}</p>
             <p>{name}</p>
             <p>{price}</p>
-            <button type="button" onClick/>
+            <button type="button" >Add Item
+            </button>
             </div>
         </div>
     )}
