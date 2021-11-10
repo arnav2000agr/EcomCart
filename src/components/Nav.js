@@ -11,11 +11,11 @@ function Nav() {
 
            <div className="linkstopages">
                <div className="link">
-                   <a href="Order.js">Your Orders</a>
+                   <a href="Order.js">Placed Orders</a>
                </div>
 
                <div className="link">
-                   <a href="Cart.js">Your Cart</a>
+                   <a href="Cart.js">Cart Status</a>
                </div>
            </div>
         </div>
